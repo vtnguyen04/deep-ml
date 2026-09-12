@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:47:49.702Z",
+  "generated_at": "2026-10-11T16:44:29.961Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -276,6 +276,89 @@
       "last_pushed_at": "2026-09-16T08:47:49.084Z",
       "language": "python",
       "lines": 18
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-09-12T19:12:21.551Z",
+      "last_pushed_at": "2026-09-12T19:12:21.551Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-09-12T19:15:12.076Z",
+      "last_pushed_at": "2026-09-12T19:15:12.076Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-09-12T19:16:23.983Z",
+      "last_pushed_at": "2026-09-12T19:16:23.983Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-12T19:18:01.692Z",
+      "last_pushed_at": "2026-09-12T19:18:01.692Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-12T19:22:33.452Z",
+      "last_pushed_at": "2026-09-12T19:22:33.452Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-12T19:23:58.232Z",
+      "last_pushed_at": "2026-09-12T19:23:58.232Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-12T19:28:36.962Z",
+      "last_pushed_at": "2026-09-12T19:28:36.962Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
