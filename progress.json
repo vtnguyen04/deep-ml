@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:20:38.555Z",
+  "generated_at": "2026-09-15T09:13:44.824Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -68,6 +68,19 @@
       "path": "math/0026-maximum-likelihood-and-map",
       "first_solved_at": "2026-09-15T08:20:37.789Z",
       "last_pushed_at": "2026-09-15T08:20:37.789Z"
+    },
+    "problem:353": {
+      "kind": "problem",
+      "id": "353",
+      "title": "Reconstruction Error from PCA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/353",
+      "path": "problems/0353-reconstruction-error-from-pca",
+      "first_solved_at": "2026-09-15T09:13:44.262Z",
+      "last_pushed_at": "2026-09-15T09:13:44.262Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
