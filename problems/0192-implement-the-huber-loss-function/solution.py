@@ -12,15 +12,15 @@ def huber_loss(y_true, y_pred, delta=1.0):
 		float: Average Huber loss
 	"""
 	# Your code here
-	y_true = np.asarray(y_true, dtype=float)
-	y_pred = np.asarray(y_pred, dtype=float)
+	y_true = torch.tensor(y_true, dtype=float)
+	y_pred = torch.tensor(y_pred, dtype=float)
 
-	abs_error = np.abs(y_true - y_pred)
+	abs_error = torch.abs(y_true - y_pred)
 
-	loss = np.where(
+	loss = torch.where(
 		abs_error <= delta,
 		0.5 * (abs_error**2),
 		delta * (abs_error - 0.5 * delta),
 	)
 
-	return float(np.mean(loss))
+	return float(torch.mean(loss))
