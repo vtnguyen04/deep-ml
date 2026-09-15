@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 6 problems · 0 labs · 5 math
+**12** solved · 7 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-09-15 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-15 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-15 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
+| [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-15 | [solution](problems/0801-polynomial-regression-fit) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-15 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-15 | [solution](problems/0353-reconstruction-error-from-pca) |
 
