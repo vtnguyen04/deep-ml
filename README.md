@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 2 problems · 0 labs · 5 math
+**8** solved · 3 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-09-15 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
+| [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-09-15 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-15 | [solution](problems/0353-reconstruction-error-from-pca) |
 
 ## Math
