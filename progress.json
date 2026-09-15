@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:01:07.188Z",
+  "generated_at": "2026-09-15T05:28:13.614Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-09-15T05:01:02.648Z",
       "last_pushed_at": "2026-09-15T05:01:02.648Z"
+    },
+    "math:43": {
+      "kind": "math",
+      "id": "43",
+      "title": "Model Selection: CV, AIC, and BIC",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/43",
+      "path": "math/0043-model-selection-cv-aic-and-bic",
+      "first_solved_at": "2026-09-15T05:28:13.029Z",
+      "last_pushed_at": "2026-09-15T05:28:13.029Z"
     }
   }
 }
