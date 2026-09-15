@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:28:13.614Z",
+  "generated_at": "2026-09-15T08:11:48.563Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -33,6 +33,19 @@
       "path": "math/0043-model-selection-cv-aic-and-bic",
       "first_solved_at": "2026-09-15T05:28:13.029Z",
       "last_pushed_at": "2026-09-15T05:28:13.029Z"
+    },
+    "problem:198": {
+      "kind": "problem",
+      "id": "198",
+      "title": "Implement Weight Decay as L2 Regularization",
+      "difficulty": "easy",
+      "category": "Regularization",
+      "url": "https://www.deep-ml.com/problems/198",
+      "path": "problems/0198-implement-weight-decay-as-l2-regularization",
+      "first_solved_at": "2026-09-15T08:11:41.242Z",
+      "last_pushed_at": "2026-09-15T08:11:41.242Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
