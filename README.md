@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 9 problems · 0 labs · 5 math
+**15** solved · 10 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-16 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-09-15 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
+| [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-16 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-09-15 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-15 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-15 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
