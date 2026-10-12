@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:29:24.555Z",
+  "generated_at": "2026-10-12T16:34:33.377Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1298,6 +1298,19 @@
       "last_pushed_at": "2026-10-12T16:29:21.984Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:909": {
+      "kind": "problem",
+      "id": "909",
+      "title": "Gradient Clipping by Norm",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/909",
+      "path": "problems/0909-gradient-clipping-by-norm",
+      "first_solved_at": "2026-10-12T16:34:32.641Z",
+      "last_pushed_at": "2026-10-12T16:34:32.641Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
