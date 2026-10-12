@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:49:27.232Z",
+  "generated_at": "2026-10-12T16:01:29.387Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1259,6 +1259,19 @@
       "last_pushed_at": "2026-10-12T15:49:26.636Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:906": {
+      "kind": "problem",
+      "id": "906",
+      "title": "Sinusoidal Positional Encoding",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/906",
+      "path": "problems/0906-sinusoidal-positional-encoding",
+      "first_solved_at": "2026-10-12T16:01:26.295Z",
+      "last_pushed_at": "2026-10-12T16:01:26.295Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
