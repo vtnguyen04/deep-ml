@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**95** solved · 65 problems · 3 labs · 27 math
+**96** solved · 66 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-16 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-14 | [solution](problems/0104-binary-classification-with-logistic-regression) |
+| [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-10-12 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-14 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-09-13 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-09-14 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
