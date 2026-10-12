@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:01:29.387Z",
+  "generated_at": "2026-10-12T16:23:24.393Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1272,6 +1272,19 @@
       "last_pushed_at": "2026-10-12T16:01:26.295Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:907": {
+      "kind": "problem",
+      "id": "907",
+      "title": "Implement an LSTM Cell from Scratch",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/907",
+      "path": "problems/0907-implement-an-lstm-cell-from-scratch",
+      "first_solved_at": "2026-10-12T16:23:23.610Z",
+      "last_pushed_at": "2026-10-12T16:23:23.610Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
