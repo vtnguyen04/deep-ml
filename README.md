@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**126** solved · 96 problems · 3 labs · 27 math
+**127** solved · 97 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -103,6 +103,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-13 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-10-13 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-10-12 | [solution](problems/0918-build-a-tiny-gpt) |
+| [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-13 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-13 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-12 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-13 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
