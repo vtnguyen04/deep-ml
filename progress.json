@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:24:30.870Z",
+  "generated_at": "2026-10-13T05:43:04.347Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1519,6 +1519,19 @@
       "last_pushed_at": "2026-10-13T05:24:30.032Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:1341": {
+      "kind": "problem",
+      "id": "1341",
+      "title": "nn.ModuleList vs a Plain Python List",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1341",
+      "path": "problems/1341-nn-modulelist-vs-a-plain-python-list",
+      "first_solved_at": "2026-10-13T05:43:03.643Z",
+      "last_pushed_at": "2026-10-13T05:43:03.643Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
