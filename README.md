@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 82 problems · 3 labs · 27 math
+**113** solved · 83 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-13 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-10-13 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-16 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-13 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-09-14 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-12 | [solution](problems/0083-dot-product-calculator) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-14 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
