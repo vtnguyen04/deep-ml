@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:35:44.527Z",
+  "generated_at": "2026-10-13T04:41:17.606Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1387,6 +1387,19 @@
       "path": "problems/0903-implement-a-custom-autograd-function",
       "first_solved_at": "2026-10-13T04:35:43.535Z",
       "last_pushed_at": "2026-10-13T04:35:43.535Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:1218": {
+      "kind": "problem",
+      "id": "1218",
+      "title": "Count Parameters of a Sequential Model",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1218",
+      "path": "problems/1218-count-parameters-of-a-sequential-model",
+      "first_solved_at": "2026-10-13T04:41:15.100Z",
+      "last_pushed_at": "2026-10-13T04:41:15.100Z",
       "language": "python",
       "lines": 21
     }
