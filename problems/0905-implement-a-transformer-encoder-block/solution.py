@@ -22,7 +22,7 @@ class TransformerBlock(nn.Module):
         # TODO: pre-LN attention sublayer, then pre-LN MLP sublayer, both with residual
         
         normed_x1 = self.norm1(x)
-        attn_out = self.attn(normed_x1, normed_x1, normed_x1, need_weights=False)[0]
+        attn_out, _ = self.attn(normed_x1, normed_x1, normed_x1, need_weights=False)
 
         x = x + self.dropout(attn_out)
    
