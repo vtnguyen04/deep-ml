@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 98 problems · 3 labs · 27 math
+**129** solved · 99 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-13 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-13 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-10-12 | [solution](problems/0904-implement-multi-head-self-attention) |
+| [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-10-13 | [solution](problems/1347-rotary-position-embeddings-rope) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-13 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-10-13 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-14 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
