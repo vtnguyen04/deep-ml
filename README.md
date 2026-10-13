@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**118** solved · 88 problems · 3 labs · 27 math
+**119** solved · 89 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-16 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-10-12 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
+| [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-10-13 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-14 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-10-12 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-10-13 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
