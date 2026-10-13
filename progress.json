@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:11:48.255Z",
+  "generated_at": "2026-10-13T10:44:33.143Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1597,6 +1597,19 @@
       "last_pushed_at": "2026-10-13T06:11:47.254Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:1348": {
+      "kind": "problem",
+      "id": "1348",
+      "title": "A collate_fn for Variable-Length Sequences",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1348",
+      "path": "problems/1348-a-collate-fn-for-variable-length-sequences",
+      "first_solved_at": "2026-10-13T10:44:32.250Z",
+      "last_pushed_at": "2026-10-13T10:44:32.250Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
