@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:42:55.585Z",
+  "generated_at": "2026-10-13T17:40:32.028Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1662,6 +1662,19 @@
       "last_pushed_at": "2026-10-13T11:28:24.730Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:1095": {
+      "kind": "problem",
+      "id": "1095",
+      "title": "Persistent LRU Cache",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1095",
+      "path": "problems/1095-persistent-lru-cache",
+      "first_solved_at": "2026-10-13T17:40:31.307Z",
+      "last_pushed_at": "2026-10-13T17:40:31.307Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }

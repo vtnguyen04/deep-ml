@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**132** solved · 102 problems · 3 labs · 27 math
+**133** solved · 103 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-13 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-16 | [solution](problems/1227-numerically-stable-softmax) |
 | [Parameter Groups and Freezing for Transfer Learning](https://www.deep-ml.com/problems/1343) | medium | 2026-10-13 | [solution](problems/1343-parameter-groups-and-freezing-for-transfer-learning) |
+| [Persistent LRU Cache](https://www.deep-ml.com/problems/1095) | medium | 2026-10-13 | [solution](problems/1095-persistent-lru-cache) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-15 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-14 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-15 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
