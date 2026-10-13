@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**123** solved · 93 problems · 3 labs · 27 math
+**124** solved · 94 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-13 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-10-13 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-16 | [solution](problems/1227-numerically-stable-softmax) |
+| [Parameter Groups and Freezing for Transfer Learning](https://www.deep-ml.com/problems/1343) | medium | 2026-10-13 | [solution](problems/1343-parameter-groups-and-freezing-for-transfer-learning) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-15 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-14 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-15 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
