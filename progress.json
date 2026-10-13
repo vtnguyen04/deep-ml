@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:55:37.431Z",
+  "generated_at": "2026-10-13T06:04:17.937Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1571,6 +1571,19 @@
       "last_pushed_at": "2026-10-13T05:55:36.785Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:1345": {
+      "kind": "problem",
+      "id": "1345",
+      "title": "A KV Cache for Autoregressive Decoding",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1345",
+      "path": "problems/1345-a-kv-cache-for-autoregressive-decoding",
+      "first_solved_at": "2026-10-13T06:04:17.184Z",
+      "last_pushed_at": "2026-10-13T06:04:17.184Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
