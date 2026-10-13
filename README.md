@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**130** solved · 100 problems · 3 labs · 27 math
+**131** solved · 101 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-09-15 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-13 | [solution](problems/0329-matrix-rank) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-14 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Mixed-Precision Forward with `autocast`](https://www.deep-ml.com/problems/911) | medium | 2026-10-13 | [solution](problems/0911-mixed-precision-forward-with-autocast) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-13 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-10-13 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-13 | [solution](problems/0914-numerically-stable-cross-entropy) |
