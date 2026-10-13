@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:57:32.277Z",
+  "generated_at": "2026-10-13T04:58:25.170Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1467,6 +1467,19 @@
       "last_pushed_at": "2026-10-13T04:57:31.621Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:1231": {
+      "kind": "problem",
+      "id": "1231",
+      "title": "BatchNorm1d Forward in Eval Mode",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1231",
+      "path": "problems/1231-batchnorm1d-forward-in-eval-mode",
+      "first_solved_at": "2026-10-13T04:58:24.378Z",
+      "last_pushed_at": "2026-10-13T04:58:24.378Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
