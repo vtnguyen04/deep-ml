@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:05:26.010Z",
+  "generated_at": "2026-10-13T05:24:30.870Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1506,6 +1506,19 @@
       "last_pushed_at": "2026-10-13T05:05:25.172Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:1340": {
+      "kind": "problem",
+      "id": "1340",
+      "title": "Capture Activations with Forward Hooks",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1340",
+      "path": "problems/1340-capture-activations-with-forward-hooks",
+      "first_solved_at": "2026-10-13T05:24:30.032Z",
+      "last_pushed_at": "2026-10-13T05:24:30.032Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
