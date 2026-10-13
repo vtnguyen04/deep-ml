@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:49:18.379Z",
+  "generated_at": "2026-10-13T05:55:37.431Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1558,6 +1558,19 @@
       "last_pushed_at": "2026-10-13T05:49:17.570Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:1344": {
+      "kind": "problem",
+      "id": "1344",
+      "title": "Exponential Moving Average of Model Weights",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1344",
+      "path": "problems/1344-exponential-moving-average-of-model-weights",
+      "first_solved_at": "2026-10-13T05:55:36.785Z",
+      "last_pushed_at": "2026-10-13T05:55:36.785Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
