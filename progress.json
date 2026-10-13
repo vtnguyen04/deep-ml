@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:01:26.314Z",
+  "generated_at": "2026-10-13T05:05:26.010Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1493,6 +1493,19 @@
       "last_pushed_at": "2026-10-13T05:01:25.737Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1339": {
+      "kind": "problem",
+      "id": "1339",
+      "title": "Register Parameters and Buffers on a Custom Module",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1339",
+      "path": "problems/1339-register-parameters-and-buffers-on-a-custom-module",
+      "first_solved_at": "2026-10-13T05:05:25.172Z",
+      "last_pushed_at": "2026-10-13T05:05:25.172Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
