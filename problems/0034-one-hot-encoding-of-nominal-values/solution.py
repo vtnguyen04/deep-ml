@@ -1,8 +1,16 @@
 import numpy as np
 
-def to_categorical(x, n_col=None):
-	# Your code here
-	if n_col is None:
-		n_col = np.max(x) + 1
+def to_categorical(y, num_classes=None):
 
-	return np.eye(n_col)[x]
+    y = np.array(y, dtype='int')
+    
+    if num_classes is None:
+        num_classes = np.max(y) + 1
+        
+    n = y.shape[0]
+    
+    categorical = np.zeros((n, num_classes), dtype=np.float32)
+    
+    categorical[np.arange(n), y] = 1.0
+    
+    return categorical
