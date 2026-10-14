@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T02:56:38.061Z",
+  "generated_at": "2026-10-14T03:00:33.951Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -1701,6 +1701,19 @@
       "last_pushed_at": "2026-10-14T02:56:36.880Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:1093": {
+      "kind": "problem",
+      "id": "1093",
+      "title": "In-Memory Key-Value Store with TTL and Snapshots",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1093",
+      "path": "problems/1093-in-memory-key-value-store-with-ttl-and-snapshots",
+      "first_solved_at": "2026-10-14T03:00:33.083Z",
+      "last_pushed_at": "2026-10-14T03:00:33.083Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }

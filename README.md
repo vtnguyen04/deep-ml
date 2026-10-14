@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**135** solved · 105 problems · 3 labs · 27 math
+**136** solved · 106 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-09-13 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-15 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-09-15 | [solution](problems/0192-implement-the-huber-loss-function) |
+| [In-Memory Key-Value Store with TTL and Snapshots](https://www.deep-ml.com/problems/1093) | medium | 2026-10-14 | [solution](problems/1093-in-memory-key-value-store-with-ttl-and-snapshots) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-13 | [solution](problems/0329-matrix-rank) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-14 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Mixed-Precision Forward with `autocast`](https://www.deep-ml.com/problems/911) | medium | 2026-10-13 | [solution](problems/0911-mixed-precision-forward-with-autocast) |
