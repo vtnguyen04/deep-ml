@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 104 problems · 3 labs · 27 math
+**135** solved · 105 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-16 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
+| [Add Two Numbers as Linked Lists](https://www.deep-ml.com/problems/1086) | easy | 2026-10-14 | [solution](problems/1086-add-two-numbers-as-linked-lists) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-10-12 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-10-13 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-14 | [solution](problems/0104-binary-classification-with-logistic-regression) |
