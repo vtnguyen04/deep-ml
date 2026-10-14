@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 103 problems · 3 labs · 27 math
+**134** solved · 104 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-10-12 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-10-13 | [solution](problems/0903-implement-a-custom-autograd-function) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-10-12 | [solution](problems/0905-implement-a-transformer-encoder-block) |
+| [Implement a Trie for Prefix Matching](https://www.deep-ml.com/problems/1083) | medium | 2026-10-14 | [solution](problems/1083-implement-a-trie-for-prefix-matching) |
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-10-12 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-12 | [solution](problems/0900-implement-conv2d-with-unfold) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-09-13 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
